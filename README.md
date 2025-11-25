@@ -1,4 +1,5 @@
-# Design-of-Automatic-Street-Light-System-using-LDR-Sensor-in-Tinkercad
+# NAME: JANANI V
+# REG NO: 212223060099 # Design-of-Automatic-Street-Light-System-using-LDR-Sensor-in-Tinkercad
 
 **Aim:**
 
